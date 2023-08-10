@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "dev": "npx web-notion dev",
-    "devBuild": "npx web-notion devBuild",
     "start": "npx web-notion serve",
     "build": "npx web-notion build"
   },
