@@ -1,0 +1,21 @@
+{
+  "name": "web-notion-template",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "npx web-notion dev",
+    "devBuild": "npx web-notion devBuild",
+    "start": "npx web-notion serve",
+    "build": "npx web-notion build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rickaym/web-notion-template.git"
+  },
+  "author": "Ricky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rickaym/web-notion-template/issues"
+  },
+  "homepage": "https://github.com/Rickaym/web-notion-template#readme"
+}
